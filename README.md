@@ -13,9 +13,9 @@ JAKVTA is a Go program that adds a specified key-value pair to all objects in a 
 
 You can download the latest pre-compiled binaries for your platform:
 
-- [Linux](releases/0.0.1/jaktva-0.0.1-linux)
-- [macOS](releases/0.0.1/jaktva-0.0.1-osx)
-- [Windows](releases/0.0.1/jaktva-0.0.1-win.exe)
+- [Linux](releases/0.0.1/jakvta-0.0.1-linux)
+- [macOS](releases/0.0.1/jakvta-0.0.1-osx)
+- [Windows](releases/0.0.1/jakvta-0.0.1-win.exe)
 
 ## Usage
 
