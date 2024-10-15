@@ -12,6 +12,6 @@ else
     echo "Directory already exists: $directory"
 fi
 
-env GOOS=linux GOARCH=amd64 go build -o="$directory/jaktva-$version-linux" $PWD/src/jakvta/main.go
-env GOOS=darwin GOARCH=amd64 go build -o="$directory/jaktva-$version-osx" $PWD/src/jakvta/main.go
-env GOOS=windows GOARCH=amd64 go build -o="$directory/jaktva-$version-win.exe" $PWD/src/jakvta/main.go
+env GOOS=linux GOARCH=amd64 go build -o="$directory/jakvta-$version-linux" $PWD/src/jakvta/main.go
+env GOOS=darwin GOARCH=amd64 go build -o="$directory/jakvta-$version-osx" $PWD/src/jakvta/main.go
+env GOOS=windows GOARCH=amd64 go build -o="$directory/jakvta-$version-win.exe" $PWD/src/jakvta/main.go

@@ -1,6 +1,6 @@
-# JAKTVA (JSON Add Key To Value All)
+# JAKVTA (JSON Add Key Value To All)
 
-JAKTVA is a Go program that adds a specified key-value pair to all objects in a JSON file, including nested objects.
+JAKVTA is a Go program that adds a specified key-value pair to all objects in a JSON file, including nested objects.
 
 ## Features
 
